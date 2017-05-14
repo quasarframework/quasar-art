@@ -1,3 +1,5 @@
+![Quasar Framework logo](https://cdn.rawgit.com/quasarframework/quasar-art/9addb0ba/dist/128/quasar-logo.png)
+
 # Quasar Framework Artworks
 
 > Quasar Framework artworks (logo, color palette, etc.)
