@@ -31,9 +31,9 @@
      id="namedview4241"
      showgrid="false"
      inkscape:zoom="0.49853902"
-     inkscape:cx="538.80164"
+     inkscape:cx="176.74372"
      inkscape:cy="410.90631"
-     inkscape:window-x="1280"
+     inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="Level_1"
@@ -43,7 +43,7 @@
      fit-margin-bottom="0" /><metadata
      id="metadata25"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs23" /><rect
      style="fill:#1976d2;fill-opacity:1"
      id="rect3"
@@ -81,13 +81,13 @@
      width="246"
      y="250.87982"
      x="138.23978" /><rect
-     style="fill:#90a4ae;fill-opacity:1"
+     style="fill:#a0b4be;fill-opacity:1"
      id="rect15"
      height="200"
      width="246"
      y="250.87982"
      x="431.83276" /><rect
-     style="fill:#cfd8dc;fill-opacity:1"
+     style="fill:#dfe8ec;fill-opacity:1"
      id="rect17"
      height="200"
      width="246"
