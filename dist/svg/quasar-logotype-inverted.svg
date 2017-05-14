@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="67.407623mm"
+   height="9.7172642mm"
+   viewBox="0 0 238.84591 34.431251"
+   id="svg3585"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="quasar-logotype-inverted.svg">
+  <defs
+     id="defs3587" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="87.947549"
+     inkscape:cy="22.763347"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3590">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-157.71995,-269.43229)">
+    <g
+       transform="translate(1269.4236,163.52289)"
+       id="g4579-2-20"
+       style="fill:#ffffff">
+      <g
+         id="g4445-2-0"
+         transform="translate(12.499948,7.809312)"
+         style="fill:#ffffff">
+        <g
+           inkscape:export-ydpi="44.860481"
+           inkscape:export-xdpi="44.860481"
+           inkscape:export-filename="/home/emanuele/Desktop/logo1.png"
+           transform="translate(-712.85583,-503.26814)"
+           id="g4561-6-7-0"
+           style="fill:#ffffff">
+          <flowRoot
+             xml:space="preserve"
+             id="flowRoot4513-6-6-08"
+             style="font-style:normal;font-weight:normal;font-size:50.25774765px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             transform="translate(16.233481,0)"><flowRegion
+               id="flowRegion4515-0-1-1"><rect
+                 id="rect4517-4-8-7"
+                 width="757.45599"
+                 height="330.2652"
+                 x="-431.78076"
+                 y="587.30066"
+                 style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+               id="flowPara4519-1-5-1"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.75px;font-family:'Neuropol X';-inkscape-font-specification:'Neuropol X';text-align:start;letter-spacing:5px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1">Quasar</flowPara></flowRoot>        </g>
+      </g>
+    </g>
+  </g>
+</svg>
